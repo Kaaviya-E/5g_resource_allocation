@@ -25,7 +25,7 @@ Efficient spectrum management is key in 5G systems. This tool predicts how much 
 
 ### Input Parameters:
 
-![Streamlit UI 1](images/screenshot1.png)
+
 
 - Signal Strength
 - Latency
@@ -35,11 +35,11 @@ Efficient spectrum management is key in 5G systems. This tool predicts how much 
 
 ### Prediction Output:
 
-![Streamlit UI 2](images/screenshot2.png)
+
 
 Displays the **predicted resource allocation** percentage based on selected parameters.
 
 ---
 
-## 📁 Project Structure
+
 
